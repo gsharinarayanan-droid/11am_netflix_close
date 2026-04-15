@@ -82,6 +82,7 @@ import Card from "./Component/Card"
   <MovieBook handleClick={handleClick} key={index}name={da.name}rent={da.rent}/>
 ))}*/}
   <Card/>
+  <h1>Audiiiiiiiiiiiiiiiiii</h1>
 
 </div>
   );
